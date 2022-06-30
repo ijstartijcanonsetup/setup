@@ -1,6 +1,6 @@
 How to Download and Install Canon ij setup via ij.start.canon?
 
-![ptl_setup](https://user-images.githubusercontent.com/108404315/176597097-4281802e-d4f2-4e5d-8528-5d7103d5929a.gif)
+<p><a href="https://ij.startcani.com/setup/web_manual"><img src="img/unnamed.png" alt="ij.start.canon" /></a></p>
 
 Step by Step Canon printer drivers downloads and installation is shown here, follow instructions mentioned below:
 
